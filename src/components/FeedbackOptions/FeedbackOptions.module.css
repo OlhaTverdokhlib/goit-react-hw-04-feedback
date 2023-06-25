@@ -1,0 +1,11 @@
+.btn{
+    margin-right: 18px;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: lightgray;
+}
